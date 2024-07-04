@@ -94,7 +94,7 @@ console.log(list);                               //Print out the list
 const last = section.lastChild;                  //Find the last child element
 console.log(last);                               //Print the last list element
 section.removeChild(last);                       //Remove from the list;
-const newLast = section.lastChild                //Get new last. 
+const newLast = section.lastChild                //Get new last. git 
 console.log(newLast);                            //Print new last.
 
 
